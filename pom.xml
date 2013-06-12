@@ -61,9 +61,6 @@
     </plugins>
   </build>
   <properties>
-    <github.global.server>
-      <username>rafaelkin</username>
-      <password>q1w2e3r4</password>
-    </github.global.server>
+    <github.global.server>github</github.global.server>
   </properties>
 </project>
